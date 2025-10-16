@@ -1,0 +1,7 @@
+employename=input("enter employe name")
+employeid=input("enter employe id")
+employesalary=float input("enter the salary")
+print("\n--employee details")
+print("name:{employename}")
+print("id:{employeid}")
+print("salary:{employesalary}")
