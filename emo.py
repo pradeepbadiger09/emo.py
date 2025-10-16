@@ -5,3 +5,7 @@ print("\n--employee details")
 print("name:{employename}")
 print("id:{employeid}")
 print("salary:{employesalary}")
+exp= int (input("enter the experience in years:"))
+
+print(f"{name}, {emp_id}, {age}, {salary}")
+print(f"\n\n{exp}")
